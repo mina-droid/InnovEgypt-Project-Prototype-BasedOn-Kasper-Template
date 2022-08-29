@@ -873,7 +873,7 @@ header nav .form i {
 .donation {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(../images/donate.jpg);
+    background-image: url(../Images/donate.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
